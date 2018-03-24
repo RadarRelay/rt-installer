@@ -2,7 +2,7 @@
 #Import config
 . .config
 TMPDIR="/tmp/rt$(date +%s)"
-INSTALLVERSION="v0.2"
+INSTALLVERSION="v0.3"
 
 if [ ! -d $INSTALLDIR ]
 then
